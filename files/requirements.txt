@@ -1,0 +1,6 @@
+streamlit>=1.32
+pymongo>=4.6
+folium>=0.16
+streamlit-folium>=0.20
+plotly>=5.20
+pandas>=2.0
